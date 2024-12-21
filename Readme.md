@@ -146,3 +146,24 @@ Kazanan kontrol mekanizması.
 - Projeye başlamadan önce WebSocket kullanımı ve gerçek zamanlı veri işlemleriyle ilgili temel bilgiler edinilmelidir.
 
 - Kullanıcı deneyimini artırmak için ses efektleri ve animasyonlar eklenebilir.
+
+# TASARIM
+
+1. Play buttonu kodlanmayacak sadece oda açılabilecek:
+
+   ![alt text](image.png)
+
+2. Oda açıldıktan sonra görüntüler:
+   ![alt text](image-1.png)
+
+3. Kart görünümü:
+   ![alt text](image-3.png)
+
+# ÖZELLİKLER:
+
+1. Sesli iletişim kurulabilecek.
+2. Yazılı iletişim kurulabilecek.
+3. Kart adedi sonradan arttırılacak.
+4. Odayı kuran kişinin ekranında sayı belirlemek için çekiliş butonu olacak.
+5. Çekilen sayı dönen sayılar içinde sabitlenerek gösterilecek.
+6. Kartında sayı olan kişinin ekranında BENDE VAR butonu olacak.
