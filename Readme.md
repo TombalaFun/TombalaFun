@@ -66,18 +66,20 @@ Kazanan kontrol mekanizması.
 
 ### Dosya Yapısı
 
-> project-root/
-> |-- index.html
-> |-- game.html
-> |-- styles/
-> | |-- main.css
-> |-- scripts/
-> | |-- app.js
-> | |-- game.js
-> |-- assets/
+`project-root/
 
-    |-- images/
-    |-- sounds/
+     |-- index.html
+     
+     |-- game.html
+     
+     |-- styles/
+       |-- main.css
+     |-- scripts/
+       |-- app.js
+       |-- game.js
+     |-- assets/
+     |-- images/
+     |-- sounds/`
 
 ---
 
