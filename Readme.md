@@ -69,9 +69,9 @@ Kazanan kontrol mekanizması.
 `project-root/
 
      |-- index.html
-     
+
      |-- game.html
-     
+
      |-- styles/
        |-- main.css
      |-- scripts/
@@ -154,6 +154,7 @@ Kazanan kontrol mekanizması.
 1. Play buttonu kodlanmayacak sadece oda açılabilecek:
 
    ![alt text](image.png)
+   Navbar'da anasayfa, yeni oyun sekmeleri olacak.
 
 2. Oda açıldıktan sonra görüntüler:
    ![alt text](image-1.png)
@@ -169,3 +170,11 @@ Kazanan kontrol mekanizması.
 4. Odayı kuran kişinin ekranında sayı belirlemek için çekiliş butonu olacak.
 5. Çekilen sayı dönen sayılar içinde sabitlenerek gösterilecek.
 6. Kartında sayı olan kişinin ekranında BENDE VAR butonu olacak.
+7. 1. çinko, 2. Çinko ve Tombala butonları her kullanıcının ekranında olacak.
+8. Oyun bittiğinde listelerin açıklandığı sayfa:
+   ![alt text](image-4.png)
+
+9. Kazanan listesi oluşturulması(2. kart eklenirken yapılacak)
+
+10. Tasarımların yapılması
+11. proje bittikten sonra React Native ile kodlanması
